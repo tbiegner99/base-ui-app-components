@@ -2,10 +2,9 @@ import DispatcherFactory from '../dispatcher/DispatcherFactory';
 import UrlEvents from '../events/UrlEvents';
 
 class BaseActionCreator {
-  dispatch(action, data) {
+  dispatch(action /* , data */) {
     DispatcherFactory.dispatch(action);
   }
-
 
   changeUrl(redirectLocation) {
     this.dispatch({

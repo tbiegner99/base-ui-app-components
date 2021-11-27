@@ -12,6 +12,6 @@ class AbstractReducingStore {
     return state;
   }
 
-  handleEvent(action) {}
+  handleEvent(/* action */) {}
 }
 export default AbstractReducingStore;
