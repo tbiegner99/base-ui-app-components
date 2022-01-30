@@ -1,6 +1,6 @@
 {
   "name": "@tbiegner99/ui-app-components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "application components for ui apps",
   "main": "build/ui-app-components.js",
   "module": "vuild/ui-app-components.es.js",
