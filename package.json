@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "application components for ui apps",
   "main": "build/ui-app-components.js",
-  "module": "vuild/ui-app-components.es.js",
+  "module": "build/ui-app-components.es.js",
   "directories": {
     "lib": "src"
   },
